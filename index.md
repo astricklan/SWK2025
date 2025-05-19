@@ -6,7 +6,7 @@ This animation shows the evolution of isochoric Λ<sub>c</sub> in a 1D coronal l
     <source src="tne_CC_mode.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-\
+
 
 ## Loop 2 profiles
 The animation shows the loop temperature, density, pressure, and velocity for the same loop as above.  As the condensation forms, note the apparent isobaric evolution.  This discrepancy likely reflects how a local instability saturates within the context of a global simulation.  Each zone evolves at nearly constant density during the linear phase, resulting in only minor local pressure loss—too subtle to register in the full-loop pressure profile.  But as the perturbation amplitude grows and nonlinear effects set in, the surrounding plasma rapidly compensates for any pressure imbalance. This dynamic adjustment gives the impression of an isobaric condensation process, even though the underlying instability began isochorically.  
