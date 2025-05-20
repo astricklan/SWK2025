@@ -18,5 +18,4 @@ This animation shows the evolution of isochoric Λ<sub>c</sub> for the same loop
 
 ### Acknowledgements
 This simulation was run using the ARGOS code and was provided by James Klimchuk and Manuel Luna.  Though not published, this run was part of the study for their [paper](https://ui.adsabs.harvard.edu/abs/2019ApJ...884...68K/abstract).
-<script data-goatcounter="https://astricklan.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+
