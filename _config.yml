@@ -1,6 +1,2 @@
 theme: jekyll-theme-slate
-#google_analytics: G-DHWL3P6GTN
-output: 
-  html_document:
-    includes:
-       in_header: GA_Script.html
+google_analytics: G-NHL0JKVK1T
